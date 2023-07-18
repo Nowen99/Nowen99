@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1>Hi, I'm Noah!</h1>
 
-<!--
-**Nowen99/Nowen99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Systems Administration Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>AD with Oracle VirtualBox and Adding Users with PowerShell</b>
+  - [Setup a Home Lab Running Active Directory With Oracle VirtualBox and Added Users with PowerShell](https://nowencyber.medium.com/how-to-setup-a-home-lab-running-active-directory-with-oracle-virtualbox-and-add-users-with-b05e651af52)
+- <b>Azure Sentinel SIEM Setup</b>
+  - [Setup Azure Sentinel (SIEM) and Connected it to a Live Virtual Machine Acting as a Honey Pot](https://nowencyber.medium.com/in-this-lab-i-setup-azure-sentinel-siem-and-connect-it-to-a-live-virtual-machine-acting-as-a-5dd6e6ef7122)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> 📜Certifications:</h2>
+
+- <b> [CompTIA A+](https://www.credly.com/badges/ab2adef1-8666-404e-a1ce-628041145c56/linked_in_profile)</b>
+- <b> [MS-900](https://learn.microsoft.com/en-us/users/noahowen-6204/credentials/a2f3731460dcb736)</b>
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="NoahOwen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[linkedin]: https://linkedin.com/in/nowen99
