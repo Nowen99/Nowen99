@@ -15,6 +15,9 @@
 - <b> [Cisco Networking Academy - Networking Basics](https://www.credly.com/badges/67b89b2b-1a15-4fe5-a5d2-de597eeb9ec8/public_url)</b>
 - <b> [Project Management Foundations](https://www.linkedin.com/learning/certificates/0e9e2f8bea06a88118bce136f6386e0b6df9e4e1bb98f1ef1eb235b366098537)</b>
 
+<h3> 🔢 Coding Projects</h3>
+- <b> [CS-50 Problem Set Solutions](https://github.com/Nowen99/CS50-Code) </b>
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="NoahOwen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
