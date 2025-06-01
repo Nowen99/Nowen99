@@ -9,6 +9,7 @@
 
 <h2> 📜Certifications:</h2>
 
+- <b> [CompTIA Security+](https://www.credly.com/badges/e9ce1f03-5545-4436-a6f2-6e4042d82cc8)</b>
 - <b> [CompTIA A+](https://www.credly.com/badges/ab2adef1-8666-404e-a1ce-628041145c56/linked_in_profile)</b>
 - <b> [MS-900](https://learn.microsoft.com/en-us/users/noahowen-6204/credentials/a2f3731460dcb736)</b>
 - <b> [Career Essentials in System Administration by Microsoft and LinkedIn](https://www.linkedin.com/learning/certificates/11098f95bdb2898040ecdf5ff60a297c940fab4548f50e7a395e4124cc4742f0)</b>
