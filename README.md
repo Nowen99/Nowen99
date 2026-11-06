@@ -25,10 +25,10 @@ Remove the demo link if there is no public demo. Keep credentials and private da
 
 ### Infrastructure & security labs
 
-| Project | What I explored | Write-up |
+| Project | What I explored | Repository |
 | :--- | :--- | :--- |
-| **Active Directory home lab** | Setting up Active Directory in Oracle VirtualBox and adding users with PowerShell. | [Read the lab](https://nowencyber.medium.com/how-to-setup-a-home-lab-running-active-directory-with-oracle-virtualbox-and-add-users-with-b05e651af52) |
-| **Azure Sentinel SIEM** | Connecting Azure Sentinel to a live virtual machine acting as a honeypot. | [Read the lab](https://nowencyber.medium.com/in-this-lab-i-setup-azure-sentinel-siem-and-connect-it-to-a-live-virtual-machine-acting-as-a-5dd6e6ef7122) |
+| **Active Directory home lab** | Setting up Active Directory in Oracle VirtualBox and adding users with PowerShell. | [View repository](https://github.com/Nowen99/active-directory-home-lab) |
+| **Azure Sentinel SIEM** | Connecting Azure Sentinel to a live virtual machine acting as a honeypot. | [View repository](https://github.com/Nowen99/sentinel-honeypot-lab) |
 
 ## CS50
 
