@@ -1,4 +1,4 @@
-![Noah Owen — Systems, security, and code](assets/profile-banner.svg)
+![Noah Owen — Support Engineer](assets/profile-banner.svg)
 
 # Hi, I'm Noah.
 
