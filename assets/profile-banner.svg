@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Noah Owen</title>
+  <desc id="desc">Systems, security, and code. Dark slate banner with mint text and a terminal-inspired geometric motif.</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#9bdcc9" stroke-opacity="0.06"/></pattern>
+  </defs>
+  <rect width="1200" height="320" rx="20" fill="#0b1219"/>
+  <rect width="1200" height="320" rx="20" fill="url(#grid)"/>
+  <rect x="48" y="55" width="4" height="210" rx="2" fill="#9bdcc9"/>
+  <text x="80" y="97" fill="#9bdcc9" font-family="'IBM Plex Mono',Consolas,monospace" font-size="17" letter-spacing="3">HELLO, WORLD.</text>
+  <text x="76" y="173" fill="#edf5f3" font-family="'DM Sans','Segoe UI',Arial,sans-serif" font-size="64" font-weight="700" letter-spacing="-2">Noah Owen</text>
+  <text x="80" y="223" fill="#9bdcc9" font-family="'IBM Plex Mono',Consolas,monospace" font-size="20">Systems / Security / Code</text>
+  <rect x="842" y="66" width="294" height="188" rx="12" fill="#101d25" stroke="#74aa9c" stroke-opacity="0.45"/>
+  <path d="M842 104h294" stroke="#74aa9c" stroke-opacity="0.25"/>
+  <circle cx="864" cy="85" r="4" fill="#9bdcc9"/><circle cx="880" cy="85" r="4" fill="#74aa9c"/><circle cx="896" cy="85" r="4" fill="#4d7269"/>
+  <path d="m881 145 24 19-24 19m45 0h49" fill="none" stroke="#9bdcc9" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M878 216h80m15 0h39m15 0h63" stroke="#74aa9c" stroke-opacity="0.35" stroke-width="5" stroke-linecap="round"/>
+</svg>

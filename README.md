@@ -1,29 +1,58 @@
-<h1>Hi, I'm Noah!</h1>
+![Noah Owen — Systems, security, and code](assets/profile-banner.svg)
 
-<h2>👨‍💻 Systems Administration Projects:</h2>
+# Hi, I'm Noah.
 
-- <b>AD with Oracle VirtualBox and Adding Users with PowerShell</b>
-  - [Setup a Home Lab Running Active Directory With Oracle VirtualBox and Added Users with PowerShell](https://nowencyber.medium.com/how-to-setup-a-home-lab-running-active-directory-with-oracle-virtualbox-and-add-users-with-b05e651af52)
-- <b>Azure Sentinel SIEM Setup</b>
-  - [Setup Azure Sentinel (SIEM) and Connected it to a Live Virtual Machine Acting as a Honey Pot](https://nowencyber.medium.com/in-this-lab-i-setup-azure-sentinel-siem-and-connect-it-to-a-live-virtual-machine-acting-as-a-5dd6e6ef7122)
+Exploring systems administration, cybersecurity, and software development through hands-on projects.
 
-<h2> 📜Certifications:</h2>
+[LinkedIn](https://linkedin.com/in/nowen99) · [Projects](#projects) · [Certifications](#certifications) · [CS50](#cs50)
 
-- <b> [CompTIA Security+](https://www.credly.com/badges/e9ce1f03-5545-4436-a6f2-6e4042d82cc8)</b>
-- <b> [CompTIA A+](https://www.credly.com/badges/ab2adef1-8666-404e-a1ce-628041145c56/linked_in_profile)</b>
-- <b> [MS-900](https://learn.microsoft.com/en-us/users/noahowen-6204/credentials/a2f3731460dcb736)</b>
-- <b> [Career Essentials in System Administration by Microsoft and LinkedIn](https://www.linkedin.com/learning/certificates/11098f95bdb2898040ecdf5ff60a297c940fab4548f50e7a395e4124cc4742f0)</b>
-- <b> [Cisco Networking Academy - Networking Basics](https://www.credly.com/badges/67b89b2b-1a15-4fe5-a5d2-de597eeb9ec8/public_url)</b>
-- <b> [Project Management Foundations](https://www.linkedin.com/learning/certificates/0e9e2f8bea06a88118bce136f6386e0b6df9e4e1bb98f1ef1eb235b366098537)</b>
+## Projects
 
-<h2> 🔢 Coding Projects</h2>
+A growing collection of things I build, automate, and learn along the way.
 
-- <b> [CS-50 Problem Set Solutions](https://github.com/Nowen99/CS50-Code)</b>
+<!-- NEW PROJECTS
+Add completed projects here, above the labs. Duplicate this block for each project:
 
-<h2> 🤳 Connect with me:</h2>
+### [Project name](REPOSITORY_URL)
+One sentence explaining what it does and the problem it solves.
 
-[<img align="left" alt="NoahOwen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+**Built with:** Technology · Technology
 
+[Source](REPOSITORY_URL) · [Demo](DEMO_URL)
 
-[linkedin]: https://linkedin.com/in/nowen99
+Remove the demo link if there is no public demo. Keep credentials and private data out of screenshots.
+-->
 
+### Infrastructure & security labs
+
+| Project | What I explored | Write-up |
+| :--- | :--- | :--- |
+| **Active Directory home lab** | Setting up Active Directory in Oracle VirtualBox and adding users with PowerShell. | [Read the lab](https://nowencyber.medium.com/how-to-setup-a-home-lab-running-active-directory-with-oracle-virtualbox-and-add-users-with-b05e651af52) |
+| **Azure Sentinel SIEM** | Connecting Azure Sentinel to a live virtual machine acting as a honeypot. | [Read the lab](https://nowencyber.medium.com/in-this-lab-i-setup-azure-sentinel-siem-and-connect-it-to-a-live-virtual-machine-acting-as-a-5dd6e6ef7122) |
+
+## CS50
+
+**[CS50 problem set solutions →](https://github.com/Nowen99/CS50-Code)**
+
+My solutions from Harvard's CS50 course.
+
+## Certifications
+
+### IT & security
+
+- [**CompTIA Security+**](https://www.credly.com/badges/e9ce1f03-5545-4436-a6f2-6e4042d82cc8)
+- [**CompTIA A+**](https://www.credly.com/badges/ab2adef1-8666-404e-a1ce-628041145c56/linked_in_profile)
+- [**CompTIA Linux+**](https://www.credly.com/earner/earned/badge/a1480efc-909a-4363-9033-29f3676b9aa9)
+- [**Microsoft 365 Fundamentals (MS-900)**](https://learn.microsoft.com/en-us/users/noahowen-6204/credentials/a2f3731460dcb736)
+
+### Additional learning
+
+- [Career Essentials in System Administration — Microsoft & LinkedIn](https://www.linkedin.com/learning/certificates/11098f95bdb2898040ecdf5ff60a297c940fab4548f50e7a395e4124cc4742f0)
+- [Networking Basics — Cisco Networking Academy](https://www.credly.com/badges/67b89b2b-1a15-4fe5-a5d2-de597eeb9ec8/public_url)
+- [Project Management Foundations](https://www.linkedin.com/learning/certificates/0e9e2f8bea06a88118bce136f6386e0b6df9e4e1bb98f1ef1eb235b366098537)
+
+---
+
+### Let's connect
+
+Find me on **[LinkedIn →](https://linkedin.com/in/nowen99)**.
