@@ -27,6 +27,7 @@ Remove the demo link if there is no public demo. Keep credentials and private da
 
 | Project | What I explored | Repository |
 | :--- | :--- | :--- |
+| **Docker & Kubernetes lab** | Ran NGINX with Docker, Compose, and Kubernetes. Traced a stalled rollout to a readiness check returning HTTP 404 and verified the fix. | [View repository](https://github.com/Nowen99/kubernetes-incident-response-lab) |
 | **Active Directory home lab** | Setting up Active Directory in Oracle VirtualBox and adding users with PowerShell. | [View repository](https://github.com/Nowen99/active-directory-home-lab) |
 | **Azure Sentinel SIEM** | Connecting Azure Sentinel to a live virtual machine acting as a honeypot. | [View repository](https://github.com/Nowen99/sentinel-honeypot-lab) |
 
